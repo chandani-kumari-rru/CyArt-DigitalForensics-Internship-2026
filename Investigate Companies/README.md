@@ -9,6 +9,33 @@
 ### Part 1 - Research the Assigned Companies
 
 For each of the 25 assigned companies, research and document
+## List of 25 Companies
+ 1. HiddenLayer
+ 2. Akto
+ 3. Rubrik
+ 4. PromptArmor
+ 5. ESET
+ 6. Cyata
+ 7. Oligo Security
+ 8. Wallarm
+ 9. WitnessAI
+ 10. SecureAuth
+ 11. Airia
+ 12. Palo Alto Networks
+ 13. Zenity
+ 14. DeepKeep
+ 15. Protecto
+ 16. Enkrypt AI
+ 17. Stacklok
+ 18. Runlayer
+ 19. NeuraTrust
+ 20. Knostic
+ 21. Capsule Security
+ 22. Silverfort
+ 23. Lumeus
+ 24. Parakeet Security
+ 25. TruU
+
 
 1\. Company Fundamentals
 
@@ -304,31 +331,3 @@ We are evaluating your
 • Security architecture thinking
 • Ability to identify security gaps
 • Ability to propose practical security controls
-
-## List of 25 Companies
-1. HiddenLayer
-2. Akto
-3. Rubrik
-4. PromptArmor
-5. ESET
-6. Cyata
-7. Oligo Security
-8. Wallarm
-9. WitnessAI
-10. SecureAuth
-11. Airia
-12. Palo Alto Networks
-13. Zenity
-14. DeepKeep
-15. Protecto
-16. Enkrypt AI
-17. Stacklok
-18. Runlayer
-19. NeuraTrust
-20. Knostic
-21. Capsule Security
-22. Silverfort
-23. Lumeus
-24. Parakeet Security
-25. TruU
-
