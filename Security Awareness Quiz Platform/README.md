@@ -2,7 +2,7 @@
 Refer Video: [Supabase v/s Firebase](https://youtu.be/ML3t9t7l0xI?si=G4ilpHAoOKSvugGj)
 
 ## Procedure for setup in Windows
-> Before starting these setup proedure, u must have `WSL` & `Ubuntu` in ur system
+> Before starting these setup procedure, u must have `WSL` & `Ubuntu` in ur system
 ```
 wsl --install
 wsl --version
