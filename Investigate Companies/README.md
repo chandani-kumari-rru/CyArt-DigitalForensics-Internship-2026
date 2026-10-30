@@ -9,7 +9,7 @@
 ### Part 1 - Research the Assigned Companies
 
 For each of the 25 assigned companies, research and document
-## List of 25 Companies
+#### List of 25 Companies
  1. HiddenLayer
  2. Akto
  3. Rubrik
