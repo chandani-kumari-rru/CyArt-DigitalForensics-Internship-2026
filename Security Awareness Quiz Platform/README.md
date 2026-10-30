@@ -16,7 +16,6 @@ node --version
 npm --version
 ```
 > Supabase SDK requires Node 22+. The default apt node package is often older. Use the NodeSource step above don't skip it.
-- copy repo to ur local repo
 - STEP 2: Generate SSH & then after copy & paste on [GitHub](https://github.com/settings/keys)
 > Since our repo is private so first authenticate through SSH then move forward
 ```
