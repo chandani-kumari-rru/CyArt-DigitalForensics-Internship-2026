@@ -5,7 +5,7 @@ Refer Video: [Supabase v/s Firebase](https://youtu.be/ML3t9t7l0xI?si=G4ilpHAoOKS
 - STEP 1: Download WSL & Ubuntu in windows
 ```
 wsl --install
-wls --version
+wsl --version
 ```
 - STEP 2: open Ubuntu & run these command one by one
 ```
