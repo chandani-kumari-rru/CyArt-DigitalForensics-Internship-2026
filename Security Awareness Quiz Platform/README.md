@@ -44,31 +44,6 @@ npm run dev
 ```
 - STEP 7: Check on http://localhost:3000/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img width="1917" height="1073" alt="image" src="https://github.com/user-attachments/assets/ae23d12b-61b8-436f-b1c2-61316d697dea" />
+
+Vercel Live Host: https://security-awareness-quiz-platform-1.vercel.app/ 
