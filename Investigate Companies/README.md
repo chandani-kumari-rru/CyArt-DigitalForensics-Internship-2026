@@ -306,29 +306,29 @@ We are evaluating your
 • Ability to propose practical security controls
 
 ## List of 25 Companies
-HiddenLayer
-Akto
-Rubrik
-PromptArmor
-ESET
-Cyata
-Oligo Security
-Wallarm
-WitnessAI
-SecureAuth
-Airia
-Palo Alto Networks
-Zenity
-DeepKeep
-Protecto
-Enkrypt AI
-Stacklok
-Runlayer
-NeuraTrust
-Knostic
-Capsule Security
-Silverfort
-Lumeus
-Parakeet Security
-TruU
+1. HiddenLayer
+2. Akto
+3. Rubrik
+4. PromptArmor
+5. ESET
+6. Cyata
+7. Oligo Security
+8. Wallarm
+9. WitnessAI
+10. SecureAuth
+11. Airia
+12. Palo Alto Networks
+13. Zenity
+14. DeepKeep
+15. Protecto
+16. Enkrypt AI
+17. Stacklok
+18. Runlayer
+19. NeuraTrust
+20. Knostic
+21. Capsule Security
+22. Silverfort
+23. Lumeus
+24. Parakeet Security
+25. TruU
 
