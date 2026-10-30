@@ -78,25 +78,15 @@ Consider an environment like
 
 ```
 User
-
  ↓
-
 AI Agent
-
  ↓
-
 MCP Client
-
  ↓
-
 MCP Server
-
  ↓
-
 Tools
-
  ↓
-
 Database  API  Cloud  SaaS  Files
 ```
 
@@ -293,21 +283,13 @@ Expected Outcome
 - By completing this project, you should be able to explain
 ```
 What today's cybersecurity companies are protecting
-
        ↓
-
 What changes with AI Agents
-
        ↓
-
 How MCP expands the attack surface
-
        ↓
-
 What security controls are required
-
        ↓
-
 What an Agentic-Level Security architecture could look like
 ```
 
